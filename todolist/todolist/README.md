@@ -8,6 +8,3 @@ Se utilizo
 ## Sitio Web en Netlify
 
 [https://todoappbasicv18.netlify.app/](https://todoappbasicv18.netlify.app/)
-
-## Preview
-<image src="/public/preview.png" alt="Descripción de la imagen">
