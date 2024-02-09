@@ -9,5 +9,3 @@ Se utilizo
 
 [https://todoappbasicv18.netlify.app/](https://todoappbasicv18.netlify.app/)
 
-## Preview
-<image src="/preview.png" alt="Descripción de la imagen">
