@@ -1,7 +1,7 @@
 ## ToDo App
 ### Echo en React V18 con Vite
 Proyecto creado en aprendizaje de React sobre el clasico ToDo
-Se utilizo
+Se utilizo:
 - Custom Hooks
 - useReducer
 
